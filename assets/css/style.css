@@ -1,0 +1,85 @@
+
+
+.our-team {
+    background-color: #000;
+}
+
+.our-team .team-info h2{
+    text-align: center;
+    font-family: impact;
+    font-size: 40px;
+    color: #FFF;
+}
+
+.our-team .team-info p {
+    text-align: center;
+    font-family: candara;
+    font-size: 14px;
+    color: cyan;
+}
+
+.our-team .team img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+.our-team .team  h2 {
+    text-align: center;
+    font-family: impact;
+    color: #FFF;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+.our-team .team p {
+    text-align: center;
+    font-family: candara;
+    font-size: 14px;
+    color: yellow;
+}
+
+.testimonials {
+    background-color: gray;
+    background-image: url('../img/s2.jpg');
+    background-position: center center;
+
+}
+
+.testimonials .testimonial-content q {
+    font-size: 40px;
+    text-align: center;
+    font-family: candara;
+    font-style: italic;
+    display: block;
+    width: 70%;
+    margin: auto;
+    color: #FFF;
+}
+
+.testimonials .testimonial-content img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+.testimonials .testimonial-content h3 {
+    text-align: center;
+    font-size: 20px;
+    font-family: chiller;
+    color: #FFF;
+    font-weight: normal;
+}
+
+.testimonials .testimonial-content a {
+    display: table;
+    margin: auto;
+    background-color: crimson;
+    color: #FFF;
+    padding: 10px 20px;
+    font-weight: bold;
+}
